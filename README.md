@@ -5,6 +5,8 @@ University project to integrate a laserscanner, GNSS antenna and remote controle
 
 Demo Website: http://ifpwww.ifp.uni-stuttgart.de/philipp/Simp-Viewer/SimpViewer.html
 
+<img width="1338" alt="image" src="https://github.com/pinguinonice/slam_integrated_mobile_platform/assets/9204823/92198e83-7f03-4e23-9da6-34c3693f8e95">
+
 Demo Video: http://youtube.com/watch?v=GBuS46cAL-4
 ## Overview
 This repository includes the processing code for data collected with the SIMP vehicle as well as some example data to run the program. Cloning the master branch will give you the following structure:
